@@ -1,3 +1,6 @@
 ls -> show all information
 
-
+# status
+  Changes not staged for commit: -> modified
+  Untracked files: -> new file
+  
