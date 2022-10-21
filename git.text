@@ -1,6 +1,17 @@
-ls -> show all information
+# ls -> show all information
 
 # status
   Changes not staged for commit: -> modified
   Untracked files: -> new file
-  
+
+# ssh-keygen -t rsa -b 4096 -C "email@example.com"
+  -t type of encryption
+  -b strength of encryption
+  -C email address
+
+  sshconfig
+
+  ls -al ~/.ssh
+  eval "$(ssh-agent -s)"
+  ~/.ssh/config
+
